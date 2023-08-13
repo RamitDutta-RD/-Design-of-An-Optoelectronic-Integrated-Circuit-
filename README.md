@@ -1,4 +1,4 @@
-# -Design-of-An-Optoelectronic-Integrated-Circuit-
+# Design-of-An-Optoelectronic-Integrated-Circuit-
 In this project, we have simulated an optoelectronic integrated circuit. The idea is to
 use a solar cell to drive a LASER, the output of which will be an optical signal of
 single frequency. This output is fed to a photodetector designed to detect that
